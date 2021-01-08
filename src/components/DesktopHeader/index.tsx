@@ -1,5 +1,4 @@
 import React from 'react';
-import { ProfileCircle } from '../MobileHeader/styles';
  import { 
      Container, 
      Wrapper, 
@@ -33,7 +32,7 @@ const DesktopHeader: React.FC = () => {
                       </button>
 
                       <button>
-                          <ProfileCircle src=""/>
+                          <ProfileCircle src="https://github.com/ana204.png"/>
                           <span>
                               Eu <CaretDownIcon />
                           </span>
