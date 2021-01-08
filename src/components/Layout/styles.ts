@@ -3,6 +3,11 @@ import styled from 'styled-components';
 export const Container = styled.div`
     width: 100%;
     height: 100%;
+
+    > span { 
+        display: flex;
+        margin-top: 48px;
+    }
    
     @media (min-width: 1180px){
         > main{
@@ -10,16 +15,23 @@ export const Container = styled.div`
             display: flex;
             justify-content: center;
         }
+
+        >span {
+            margin-top: 52px;
+            padding: 8px 0;
+        }
     }
 
     .left-column, 
-    .right-column{
+    .right-column,
+    .ad-banner{
         display: none;
     }
 
     @media (min-width:1180px){
         .left-column,
-        .right-column{
+        .right-column,
+        .ad-banner{
         display: unset;
         }
 
