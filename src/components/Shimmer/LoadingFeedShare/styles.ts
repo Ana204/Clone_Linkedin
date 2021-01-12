@@ -16,6 +16,7 @@ export const Container = styled.div`
 
           &:nth-child(2){
               width: 90%;
+              margin-top: 20px;
           }
       }
   }
