@@ -17,3 +17,6 @@ Personal project to improve my development in web construction, done together wi
 ### `npm install`
 ### or 
 ### `yarn install`
+
+### The second step and you run the project with the following command: 
+### `npm start` or ### `yarn start`
