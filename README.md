@@ -14,9 +14,9 @@
 Personal project to improve my development in web construction, done together with **Rocketseat**!
 
 ### The first step in running this project, you need to run the commands to install the project's dependencies:
-### `npm install`
-### or 
-### `yarn install`
+`npm install`
+ or 
+`yarn install`
 
 ### The second step and you run the project with the following command: 
-### `npm start` or `yarn start`
+`npm start` or `yarn start`
