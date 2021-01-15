@@ -14,7 +14,7 @@
 Personal project to improve my development in web construction, done together with **Rocketseat**!
 
 **Cloning the Repository**  <br>
-$ git clone 
+$ git clone https://github.com/Ana204/Clone_Linkedin.git
 
 ### The first step in running this project, you need to run the commands to install the project's dependencies:
 `npm install`
